@@ -5,5 +5,5 @@ data_furniture/
 runs/
 yolo26n.pt
 __pycache__/
-*.py[cod]
+*.py
 .ipynb_checkpoints/
