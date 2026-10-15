@@ -1,9 +1,0 @@
-# ===== Окружение =====
-.venv/
-data/
-data_furniture/
-runs/
-yolo26n.pt
-__pycache__/
-*.py
-.ipynb_checkpoints/

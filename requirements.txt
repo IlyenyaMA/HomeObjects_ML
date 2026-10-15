@@ -1,2 +1,0 @@
-ultralytics==8.4.176
-torch==2.14.1
