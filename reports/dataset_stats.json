@@ -1,0 +1,76 @@
+{
+  "train": {
+    "images": 2285,
+    "label_files": 2285,
+    "empty_label_files": 0,
+    "images_without_labels": 0,
+    "labels_without_images": 0,
+    "total_boxes": 18822,
+    "boxes_by_class": {
+      "Кровать": 150,
+      "Диван": 2074,
+      "Стул": 2208,
+      "Стол": 2561,
+      "Лампа": 1818,
+      "Телевизор": 332,
+      "Ноутбук": 102,
+      "Шкаф": 468,
+      "Окно": 1636,
+      "Дверь": 509,
+      "Растение в горшке": 4249,
+      "Фоторамка": 2715
+    },
+    "box_area": {
+      "min": 4.8382528032e-05,
+      "median": 0.024361033481580998,
+      "max": 0.97066823620176,
+      "small_boxes_count": 5642,
+      "small_boxes_fraction": 0.2997556051429179
+    },
+    "invalid_rows": {}
+  },
+  "val": {
+    "images": 404,
+    "label_files": 404,
+    "empty_label_files": 0,
+    "images_without_labels": 0,
+    "labels_without_images": 0,
+    "total_boxes": 3470,
+    "boxes_by_class": {
+      "Кровать": 22,
+      "Диван": 398,
+      "Стул": 305,
+      "Стол": 469,
+      "Лампа": 304,
+      "Телевизор": 54,
+      "Ноутбук": 4,
+      "Шкаф": 109,
+      "Окно": 371,
+      "Дверь": 85,
+      "Растение в горшке": 788,
+      "Фоторамка": 561
+    },
+    "box_area": {
+      "min": 0.00016467545747209997,
+      "median": 0.023736825165527997,
+      "max": 0.59079482583839,
+      "small_boxes_count": 1043,
+      "small_boxes_fraction": 0.3005763688760807
+    },
+    "invalid_rows": {}
+  },
+  "rarest_classes": [
+    {
+      "class": "Ноутбук",
+      "boxes": 106
+    },
+    {
+      "class": "Кровать",
+      "boxes": 172
+    },
+    {
+      "class": "Телевизор",
+      "boxes": 386
+    }
+  ]
+}

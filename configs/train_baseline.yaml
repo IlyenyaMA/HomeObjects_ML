@@ -1,0 +1,48 @@
+data: configs/data_split.yaml   # YAML с train/val/test; test = отложенные 10% train (seed=14)
+epochs: 15                      # Бюджет ТЗ для CPU; больше — дольше, качество почти не растёт
+imgsz: 448                      # снижено для ускорения обучения на CPU
+batch: 16                       # Компромисс CPU/память; при OOM уменьшить до 8
+device: cpu                     # GPU отсутствует (см. REPORT.md)
+workers: 4                      # Загрузчики данных; на Windows можно снизить до 2
+fraction: 0.3                   # ТЗ: без GPU допустимо 30% train для ускорения
+
+# --- Воспроизводимость ---
+seed: 0                         # ТЗ: фиксируем seed
+deterministic: true             # ТЗ: детерминированные операции
+
+# --- Оптимизация (МЕНЯЕТСЯ В E4) ---
+optimizer: SGD                  # Baseline: SGD как в дефолте Ultralytics
+lr0: 0.01                       # Начальный LR для SGD
+lrf: 0.01                       # Конечный LR = lr0 * lrf (работает, т.к. cos_lr=False)
+cos_lr: False                   # Отключено: иначе lrf игнорируется
+momentum: 0.937                 # Momentum SGD (дефолт)
+weight_decay: 0.0005            # L2-регуляризация (дефолт)
+warmup_epochs: 3.0              # Линейный разогрев LR первые 3 эпохи
+patience: 15                    # Early stopping; при epochs=15 фактически не сработает
+
+# --- Аугментации (МЕНЯЕТСЯ В E3) ---
+mosaic: 1.0                     # Baseline: mosaic включён (дефолт)
+close_mosaic: 10                # Отключить mosaic за 10 эпох до конца (дефолт)
+scale: 0.5                      # Масштабная аугментация ±50% (дефолт)
+fliplr: 0.5                     # Горизонтальный флип с вероятностью 0.5 (дефолт)
+degrees: 0.0                    # Без поворотов (дефолт)
+hsv_h: 0.015                    # Оттенок (дефолт)
+hsv_s: 0.7                      # Насыщенность (дефолт)
+hsv_v: 0.4                      # Яркость (дефолт)
+
+# --- Заморозка (МЕНЯЕТСЯ В E2) ---
+freeze: 0                       # Baseline: все слои обучаются
+
+# --- Чекпойнты и артефакты ---
+pretrained: true                # Использовать предобученные веса (yolo26n.pt)
+save: true                      # Сохранять best.pt и last.pt
+save_period: -1                 # Не сохранять промежуточные чекпойнты
+plots: true                     # Сохранять confusion_matrix.png, labels.jpg, train_batch*.jpg
+val: true                       # Запускать валидацию каждую эпоху
+
+# --- Логирование ---
+project: runs/homeobjects       # Корневая папка запусков
+name: E1_baseline               # Имя запуска
+exist_ok: false                 # Не перезаписывать папку, если существует
+verbose: true                   # Подробный лог
+amp: false                      # На CPU AMP недоступен; флаг не влияет, оставлен для явности

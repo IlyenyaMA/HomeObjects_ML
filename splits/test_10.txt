@@ -1,0 +1,228 @@
+data/images/train/living_room_1693.jpg
+data/images/train/living_room_1023.jpg
+data/images/train/living_room_561.jpg
+data/images/train/living_room_1700.jpg
+data/images/train/living_room_170.jpg
+data/images/train/living_room_882.jpg
+data/images/train/living_room_1506.jpg
+data/images/train/living_room_1p (356).jpg
+data/images/train/living_room_1752.jpg
+data/images/train/living_room_1166.jpg
+data/images/train/living_room_1889.jpg
+data/images/train/living_room_1570.jpg
+data/images/train/living_room_1879.jpg
+data/images/train/living_room_1p (456).jpg
+data/images/train/living_room_1638.jpg
+data/images/train/living_room_1801.jpg
+data/images/train/living_room_548.jpg
+data/images/train/living_room_1p (422).jpg
+data/images/train/living_room_909.jpg
+data/images/train/living_room_1p (275).jpg
+data/images/train/living_room_1416.jpg
+data/images/train/living_room_81.jpg
+data/images/train/living_room_169.jpg
+data/images/train/living_room_1818.jpg
+data/images/train/living_room_1309.jpg
+data/images/train/living_room_300.jpg
+data/images/train/living_room_1179.jpg
+data/images/train/living_room_717.jpg
+data/images/train/living_room_1643.jpg
+data/images/train/living_room_1904.jpg
+data/images/train/s (262).jpg
+data/images/train/living_room_532.jpg
+data/images/train/living_room_1014.jpg
+data/images/train/living_room_1p (409).jpg
+data/images/train/living_room_1p (392).jpg
+data/images/train/living_room_1p (402).jpg
+data/images/train/living_room_112.jpg
+data/images/train/living_room_1207.jpg
+data/images/train/living_room_1768.jpg
+data/images/train/living_room_1662.jpg
+data/images/train/living_room_1165.jpg
+data/images/train/living_room_194.jpg
+data/images/train/living_room_1950.jpg
+data/images/train/living_room_1540.jpg
+data/images/train/living_room_73.jpg
+data/images/train/living_room_1p (359).jpg
+data/images/train/living_room_1083.jpg
+data/images/train/living_room_786.jpg
+data/images/train/living_room_407.jpg
+data/images/train/living_room_1843.jpg
+data/images/train/living_room_1138.jpg
+data/images/train/living_room_1741.jpg
+data/images/train/living_room_1228.jpg
+data/images/train/living_room_1376.jpg
+data/images/train/living_room_1p (522).jpg
+data/images/train/living_room_117.jpg
+data/images/train/s (136).jpg
+data/images/train/living_room_1p (174).jpg
+data/images/train/living_room_513.jpg
+data/images/train/living_room_981.jpg
+data/images/train/living_room_1p (467).jpg
+data/images/train/s (298).jpg
+data/images/train/living_room_1776.jpg
+data/images/train/living_room_1215.jpg
+data/images/train/living_room_1p (340).jpg
+data/images/train/living_room_873.jpg
+data/images/train/living_room_1146.jpg
+data/images/train/living_room_1p (71).jpg
+data/images/train/s (284).jpg
+data/images/train/living_room_1p (427).jpg
+data/images/train/living_room_1308.jpg
+data/images/train/living_room_1223.jpg
+data/images/train/living_room_800.jpg
+data/images/train/living_room_1p (327).jpg
+data/images/train/living_room_1850.jpg
+data/images/train/living_room_1154.jpg
+data/images/train/living_room_596.jpg
+data/images/train/s (86).jpg
+data/images/train/living_room_811.jpg
+data/images/train/living_room_504.jpg
+data/images/train/living_room_537.jpg
+data/images/train/living_room_283.jpg
+data/images/train/s (45).jpg
+data/images/train/living_room_1845.jpg
+data/images/train/living_room_1614.jpg
+data/images/train/living_room_1p (9).jpg
+data/images/train/living_room_1651.jpg
+data/images/train/living_room_187.jpg
+data/images/train/living_room_1708.jpg
+data/images/train/living_room_236.jpg
+data/images/train/living_room_1p (70).jpg
+data/images/train/living_room_489.jpg
+data/images/train/living_room_827.jpg
+data/images/train/living_room_1195.jpg
+data/images/train/living_room_528.jpg
+data/images/train/living_room_1p (532).jpg
+data/images/train/living_room_1348.jpg
+data/images/train/living_room_1025.jpg
+data/images/train/living_room_1585.jpg
+data/images/train/living_room_953.jpg
+data/images/train/s (151).jpg
+data/images/train/s (208).jpg
+data/images/train/living_room_260.jpg
+data/images/train/living_room_1746.jpg
+data/images/train/living_room_1921.jpg
+data/images/train/s (120).jpg
+data/images/train/living_room_346.jpg
+data/images/train/living_room_212.jpg
+data/images/train/s (350).jpg
+data/images/train/s (172).jpg
+data/images/train/living_room_1313.jpg
+data/images/train/living_room_1p (37).jpg
+data/images/train/s (77).jpg
+data/images/train/living_room_1962.jpg
+data/images/train/living_room_1684.jpg
+data/images/train/living_room_1653.jpg
+data/images/train/living_room_1p (424).jpg
+data/images/train/living_room_1303.jpg
+data/images/train/living_room_1360.jpg
+data/images/train/living_room_808.jpg
+data/images/train/living_room_1p (171).jpg
+data/images/train/living_room_1534.jpg
+data/images/train/living_room_829.jpg
+data/images/train/living_room_1438.jpg
+data/images/train/living_room_1630.jpg
+data/images/train/s (312).jpg
+data/images/train/living_room_1p (515).jpg
+data/images/train/living_room_913.jpg
+data/images/train/living_room_1974.jpg
+data/images/train/s (222).jpg
+data/images/train/s (287).jpg
+data/images/train/s (112).jpg
+data/images/train/s (294).jpg
+data/images/train/living_room_1978.jpg
+data/images/train/living_room_1038.jpg
+data/images/train/living_room_543.jpg
+data/images/train/living_room_1p (67).jpg
+data/images/train/living_room_267.jpg
+data/images/train/s (202).jpg
+data/images/train/living_room_1243.jpg
+data/images/train/living_room_1520.jpg
+data/images/train/living_room_1733.jpg
+data/images/train/living_room_141.jpg
+data/images/train/s (74).jpg
+data/images/train/living_room_1p (55).jpg
+data/images/train/living_room_1960.jpg
+data/images/train/living_room_1p (570).jpg
+data/images/train/living_room_721.jpg
+data/images/train/living_room_1884.jpg
+data/images/train/living_room_269.jpg
+data/images/train/living_room_1295.jpg
+data/images/train/living_room_356.jpg
+data/images/train/s (363).jpg
+data/images/train/s (62).jpg
+data/images/train/living_room_1551.jpg
+data/images/train/living_room_1775.jpg
+data/images/train/living_room_1196.jpg
+data/images/train/living_room_874.jpg
+data/images/train/living_room_1665.jpg
+data/images/train/living_room_1p (463).jpg
+data/images/train/living_room_1357.jpg
+data/images/train/living_room_634.jpg
+data/images/train/s (210).jpg
+data/images/train/living_room_1948.jpg
+data/images/train/living_room_1p (475).jpg
+data/images/train/living_room_1457.jpg
+data/images/train/living_room_405.jpg
+data/images/train/living_room_1161.jpg
+data/images/train/living_room_1914.jpg
+data/images/train/living_room_1315.jpg
+data/images/train/living_room_1p (595).jpg
+data/images/train/living_room_1444.jpg
+data/images/train/living_room_290.jpg
+data/images/train/living_room_1p (535).jpg
+data/images/train/living_room_257.jpg
+data/images/train/living_room_1553.jpg
+data/images/train/living_room_1518.jpg
+data/images/train/s (295).jpg
+data/images/train/living_room_163.jpg
+data/images/train/living_room_727.jpg
+data/images/train/living_room_373.jpg
+data/images/train/living_room_1856.jpg
+data/images/train/living_room_145.jpg
+data/images/train/living_room_425.jpg
+data/images/train/living_room_1p (266).jpg
+data/images/train/living_room_511.jpg
+data/images/train/living_room_493.jpg
+data/images/train/living_room_1465.jpg
+data/images/train/living_room_386.jpg
+data/images/train/s (159).jpg
+data/images/train/living_room_1835.jpg
+data/images/train/living_room_753.jpg
+data/images/train/living_room_1631.jpg
+data/images/train/living_room_301.jpg
+data/images/train/living_room_146.jpg
+data/images/train/s (296).jpg
+data/images/train/living_room_622.jpg
+data/images/train/living_room_1185.jpg
+data/images/train/living_room_1846.jpg
+data/images/train/living_room_165.jpg
+data/images/train/s (192).jpg
+data/images/train/living_room_220.jpg
+data/images/train/living_room_391.jpg
+data/images/train/living_room_741.jpg
+data/images/train/s (229).jpg
+data/images/train/living_room_935.jpg
+data/images/train/living_room_1266.jpg
+data/images/train/living_room_1p (566).jpg
+data/images/train/living_room_329.jpg
+data/images/train/living_room_1017.jpg
+data/images/train/living_room_1030.jpg
+data/images/train/living_room_118.jpg
+data/images/train/living_room_1329.jpg
+data/images/train/living_room_1642.jpg
+data/images/train/living_room_685.jpg
+data/images/train/living_room_684.jpg
+data/images/train/living_room_1424.jpg
+data/images/train/living_room_1096.jpg
+data/images/train/living_room_120.jpg
+data/images/train/living_room_1p (4).jpg
+data/images/train/living_room_709.jpg
+data/images/train/living_room_462.jpg
+data/images/train/living_room_1p (417).jpg
+data/images/train/s (89).jpg
+data/images/train/living_room_1p (87).jpg
+data/images/train/living_room_1327.jpg
+data/images/train/living_room_292.jpg
+data/images/train/living_room_1262.jpg

@@ -1,0 +1,17 @@
+path: data
+train: images/train
+val: images/val
+
+names:
+  0: Bed
+  1: Sofa
+  2: Chair
+  3: Table
+  4: Lamp
+  5: Tv
+  6: Laptop
+  7: Wardrobe
+  8: Window
+  9: Door
+  10: Potted plant
+  11: Photo frame
