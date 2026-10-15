@@ -1,0 +1,16 @@
+# ===== Окружение =====
+.venv/
+data/
+data_furniture/
+runs/
+yolo26n.pt
+__pycache__/
+.ipynb_checkpoints/
+check_split.py
+clean.py
+collect_experiments.py
+create_split.py
+resume_continue.py
+resume_test.py
+test_split.py
+test_yaml.py

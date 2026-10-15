@@ -1,0 +1,10 @@
+
+path: ../data_furniture
+train: images/train
+val: images/val
+names:
+  0: bed
+  1: sofa
+  2: chair
+  3: table
+  4: wardrobe
